@@ -72,7 +72,7 @@ int main()
     s=0;
 
     }
-    outtextxy(x/2,400,"Traffic Light Simulator by blaze");
+    outtextxy(x/2,400,"Traffic Light Simulator by RoBlaze");
 	closegraph();
 
 }
